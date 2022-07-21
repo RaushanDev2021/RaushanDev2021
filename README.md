@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaushanDev2021 
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning ios development
+- 🌱 I’m ios developer
 - 💞️ I’m looking to collaborate on that
 - 📫 How to reach me ruslanraushan11@gmail.com
 
