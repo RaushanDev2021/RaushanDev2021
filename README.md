@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaushanDev2021 
+- 👋 Hi, I’m @RaushanDev
 - 👀 I’m interested in computer science 
 - 🌱 I’m ios developer
 - 💞️ I’m looking to collaborate on that
